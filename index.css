@@ -1,13 +1,4 @@
-h2#home a {
-    margin-left: 10px;
-    color: rgb(194, 116, 14);
-    padding: 5px 0px;
-}
 
-h2#home a:hover {
-color: rgb(202, 68, 255);
-font-size: 26px;
-}
 
 span {
     font-style: italic;
